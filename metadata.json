@@ -1,0 +1,6 @@
+{
+  "name": "DJ Smart Doc",
+  "description": "Smart Document Reader for PDF files and PowerPoint presentations with slide preview, page bookmarks, reading modes, and document management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
